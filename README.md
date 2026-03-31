@@ -16,8 +16,6 @@ The core objective is to visualize **Decoupling**—the phenomenon where an econ
 ## 📂 Project Structure
 The project is organized into a clean, professional directory:
 
-## 📂 项目结构 (Project Structure)
-
 ```text
 .
 ├── Bubble_Chart_Decoupling.ipynb
