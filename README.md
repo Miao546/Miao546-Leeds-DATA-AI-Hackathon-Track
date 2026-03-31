@@ -16,17 +16,23 @@ The core objective is to visualize **Decoupling**—the phenomenon where an econ
 ## 📂 Project Structure
 The project is organized into a clean, professional directory:
 
-├── Data/
-│   └── cleaned/           # Processed and merged CSV datasets (1980-2023)
-│       ├── cleaned_co2_data.csv
-│       ├── cleaned_gdp_data.csv
-│       ├── cleaned_pop_data.csv
-│       └── Master_CO2_Decoupling_Final.csv
-│
-├── Output/                # Interactive visual outputs
+## 📂 项目结构 (Project Structure)
+
+```text
+.
+├── Bubble_Chart_Decoupling.ipynb
+├── Ultimate_Bar_Chart_Race.ipynb
+├── Clean Data.ipynb
+├── Output/
 │   ├── Global_CO2_Decoupling_Analysis.html
 │   └── Global_CO2_Ranking_Race.html
-│
-├── Bubble_Chart_Decoupling.ipynb
-├── Clean Data.ipynb
-└── Ultimate_Bar_Chart_Race.ipynb
+└── Data/
+    ├── population-population-people-in-thousands.csv
+    ├── co2-emissions-emissions-mmtco2.csv
+    ├── gross-domestic-product-gdp-billion-dollars-at-purchasing-power-parities.csv
+    └── Cleaned/
+        ├── cleaned_gdp_data_1980_2023.csv
+        ├── Master_CO2_Decoupling_Final.csv
+        ├── cleaned_pop_data_1980_2023.csv
+        └── cleaned_co2_data_1980_2023.csv
+```
