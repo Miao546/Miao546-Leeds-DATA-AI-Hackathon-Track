@@ -72,7 +72,3 @@ Open and run all cells in **`Ultimate_Bar_Chart_Race.ipynb`**.
 
 ## 🎯 4. Viewing the Results
 After running all the code above, you can directly double-click the `.html` files in the `Output/` folder to open them in your web browser. You will be able to interact with the high-quality charts (e.g., hover for exact values, play the timeline animation, etc.).
-## 📂 Project Structure
-The project is organized into a clean, professional directory:
-
-
